@@ -152,7 +152,7 @@
             // lblPrecio
             // 
             this.lblPrecio.AutoSize = true;
-            this.lblPrecio.Location = new System.Drawing.Point(182, 46);
+            this.lblPrecio.Location = new System.Drawing.Point(175, 46);
             this.lblPrecio.Name = "lblPrecio";
             this.lblPrecio.Size = new System.Drawing.Size(38, 15);
             this.lblPrecio.TabIndex = 3;
